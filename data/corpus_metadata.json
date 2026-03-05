@@ -1,0 +1,110 @@
+[
+    {
+      "id": "01",
+      "filename": "01_AI_Surveillance_Data_Privacy_OConnell_2025_Journal.pdf",
+      "title": "The Ethics of AI Surveillance and Data Privacy",
+      "author": "MaryEllen O’Connell",
+      "year": 2025,
+      "domain": "surveillance",
+      "type": "journal"
+    },
+    {
+      "id": "02",
+      "filename": "02_AI_in_Public_Bias_Privacy_Dorotic_2022_Conference.pdf",
+      "title": "AI in Public: The Effects of Technology Bias, Fears of Public Surveillance, and Moral Tradeoffs on Privacy Concerns",
+      "author": "Dorotic & Stagno",
+      "year": 2022,
+      "domain": "surveillance",
+      "type": "conference"
+    },
+    {
+      "id": "03",
+      "filename": "03_Agentic_AI_Surveillance_Ahmed_2025_Journal.pdf",
+      "title": "Assessing the Potential and Ethical Implications of Agentic AI in Surveillance Technology",
+      "author": "Ahmed et al.",
+      "year": 2025,
+      "domain": "surveillance",
+      "type": "journal"
+    },
+    {
+      "id": "04",
+      "filename": "04_Ethics_of_Generative_AI_Zohny_2023_Editorial.pdf",
+      "title": "Ethics of Generative AI",
+      "author": "Zohny et al.",
+      "year": 2023,
+      "domain": "generative",
+      "type": "editorial"
+    },
+    {
+      "id": "05",
+      "filename": "05_Generative_AI_Ethical_Challenges_AlKfairy_2024_Review.pdf",
+      "title": "Ethical Challenges and Solutions of Generative AI: An Interdisciplinary Perspective",
+      "author": "Al-kfairy et al.",
+      "year": 2024,
+      "domain": "generative",
+      "type": "review"
+    },
+    {
+      "id": "06",
+      "filename": "06_ChatGPT_AI_Ethics_in_Research_Schlagwein_2023_Journal.pdf",
+      "title": "‘ChatGPT et al.’: The ethics of using (generative) artificial intelligence in research and science",
+      "author": "Schlagwein & Willcocks",
+      "year": 2023,
+      "domain": "generative",
+      "type": "journal"
+    },
+    {
+      "id": "07",
+      "filename": "07_Fairness_ML_Healthcare_Ahmad_2020_Conference.pdf",
+      "title": "Fairness in Machine Learning for Healthcare",
+      "author": "Ahmad et al.",
+      "year": 2020,
+      "domain": "healthcare",
+      "type": "conference"
+    },
+    {
+      "id": "08",
+      "filename": "08_AI_Driven_Healthcare_Fairness_Chinta_2025_Review.pdf",
+      "title": "AI-driven Healthcare: A Review on Ensuring Fairness and Mitigating Bias",
+      "author": "Chinta et al.",
+      "year": 2025,
+      "domain": "healthcare",
+      "type": "review"
+    },
+    {
+      "id": "09",
+      "filename": "09_Digital_Ethics_Dignitarian_Approach_Hanna_2021_Philosophy.pdf",
+      "title": "Philosophical Foundations for Digital Ethics and AI Ethics: A Dignitarian Approach",
+      "author": "Hanna & Kazim",
+      "year": 2021,
+      "domain": "philosophy",
+      "type": "journal"
+    },
+    {
+      "id": "10",
+      "filename": "10_Ethics_of_AI_Philosophical_Perspectives_Annet_2025_Philosophy.pdf",
+      "title": "The Ethics of AI: Philosophical Perspectives",
+      "author": "Kakembo Aisha Annet",
+      "year": 2025,
+      "domain": "philosophy",
+      "type": "journal"
+    },
+    {
+      "id": "11",
+      "filename": "11_Harmonised_Standards_EU_AI_Act_JRC_2024_Policy.pdf",
+      "title": "Harmonised Standards for the European AI Act",
+      "author": "Joint Research Centre (European Commission)",
+      "year": 2024,
+      "domain": "policy",
+      "type": "policy"
+    },
+    {
+      "id": "12",
+      "filename": "12_AI_Risk_Management_Framework_NIST_2023_Policy.pdf",
+      "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+      "author": "National Institute of Standards and Technology (NIST)",
+      "year": 2023,
+      "domain": "policy",
+      "type": "policy"
+    }
+  ]
