@@ -134,7 +134,7 @@ if st.button("Seek knowledge"):
         st.markdown(f"""
         <div style="position: relative; width: 600px; margin: 0 auto;">
             <img src="data:image/png;base64,{scroll_base64}"
-                 style="width: 100%; display: block; transform: scaleX(1.8); transform-origin: top;" />
+                 style="width: 100%; display: block; transform: scaleX(2.5); transform-origin: top;" />
             <div style="
                 position: absolute;
                 top: 10%;
