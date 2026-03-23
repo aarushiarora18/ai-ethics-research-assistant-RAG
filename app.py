@@ -137,7 +137,7 @@ if st.button("Seek knowledge"):
                  style="width: 100%; display: block; transform: scaleX(2.3); transform-origin: top;margin-top: -200px;" />
             <div style="
                 position: absolute;
-                top: 22%;
+                top: 26%;
                 left: 18%;
                 width: 65%;
                 height: 80%;
