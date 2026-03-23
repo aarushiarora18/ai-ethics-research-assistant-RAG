@@ -3,12 +3,7 @@ from generation.answer_questions import answer_questions
 import base64
 import os
 import html
-from embedding.build_index import build_index
-from retrieval.vector_store import INDEX_PATH
 
-if not os.path.exists(INDEX_PATH):
-    with st.spinner("Building index for the first time..."):
-        build_index()
 st.set_page_config(page_title="AI Ethics Research Assistant", layout="centered")
 
 def get_base64(image_file):
