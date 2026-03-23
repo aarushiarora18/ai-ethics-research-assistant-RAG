@@ -11,9 +11,6 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Vector database
-faiss_index/
-
 # Virtual environments
 venv/
 .env/
