@@ -76,8 +76,8 @@ label[data-testid="stWidgetLabel"] p {
     margin: 0 auto !important;
 }
 .stButton {
-    display: flex;
-    justify-content: center;
+    display: flex !important;
+    justify-content: center !important;
 }
 .stButton button:hover {
     background-color: #4a5568 !important;
@@ -90,6 +90,7 @@ label[data-testid="stWidgetLabel"] p {
     border: none !important;
     border-radius: 8px !important;
     text-align: center !important;
+    max-width: 500px !important;
 }
 [data-testid="stAlert"] p {
     color: white !important;
