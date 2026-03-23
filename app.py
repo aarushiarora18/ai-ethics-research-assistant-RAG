@@ -132,15 +132,15 @@ if st.button("Seek knowledge"):
             sources_html += "[{}] {} ({}). <em>{}</em>. {}.<br>".format(i+1, author, year, title, domain)
 
         st.markdown(f"""
-        <div style="position: relative; width: 600px; margin: 0 auto;height: 800px;">
+        <div style="position: relative; width: 600px; margin: 0 auto;">
             <img src="data:image/png;base64,{scroll_base64}"
-                 style="width: 100%; display: block; transform: scaleX(2.3) scaleY(2.5);transform-origin: top;margin-top: -200px;" />
+                 style="width: 100%; display: block; transform: scaleX(2.3) ;transform-origin: top;margin-top: -200px;" />
             <div style="
                 position: absolute;
                 top: 28%;
                 left: 18%;
                 width: 69%;
-                height: 50%;
+                height: 60%;
                 overflow-y: scroll;
                 font-family: 'Times New Roman', serif;
                 color: black;
