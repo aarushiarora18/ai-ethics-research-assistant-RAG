@@ -140,8 +140,8 @@ if st.button("Seek knowledge"):
                 top: 28%;
                 left: 18%;
                 width: 69%;
-                height: 80%;
-                overflow-y: auto;
+                height: 60%;
+                overflow-y: scroll;
                 font-family: 'Times New Roman', serif;
                 color: black;
                 font-size: 15px;
